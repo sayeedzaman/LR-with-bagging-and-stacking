@@ -1,0 +1,1 @@
+Implemented a Logistic Regression classifier with ensemble methods such as bagging and stacking, applied to multiple datasets with comprehensive preprocessing, performance evaluation using comparative metrics, and reproducible coding in Python, submitted as a Jupyter Notebook.
